@@ -86,24 +86,6 @@ Or _italic_.
 Or... wait for it... **_both!_**
 And feel free to go crazy ~~crossing stuff out~~.
 
-There's also [links](https://www.freecodecamp.org), and
+There's also [links](https://mhmd-k.github.io/portfolio/), and
 > Block Quotes!
-
-And if you want to get really crazy, even tables:
-
-Wild Header | Crazy Header | Another Header?
------------- | ------------- | -------------
-Your content can | be here, and it | can be here....
-And here. | Okay. | I think we get it.
-
-- And of course there are lists.
-  - Some are bulleted.
-     - With different indentation levels.
-        - That look like this.
-
-
-1. And there are numbered lists too.
-1. Use just 1s if you want!
-1. And last but not least, let's not forget embedded images:
-
-![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)`;function gv(){const[e,n]=Kt.useState(mv);function t(r){n(r.target.value)}return ji("div",{className:"row",children:[ji("div",{className:"col",children:[ut("h2",{children:"Editor"}),ut("textarea",{id:"editor",value:e,onChange:t})]}),ji("div",{className:"col",children:[ut("h2",{children:"Previewer"}),ut("div",{id:"preview",children:ut(Td,{children:e})})]})]})}xo.createRoot(document.getElementById("root")).render(ut(pt.StrictMode,{children:ut(gv,{})}));
+`;function gv(){const[e,n]=Kt.useState(mv);function t(r){n(r.target.value)}return ji("div",{className:"row",children:[ji("div",{className:"col",children:[ut("h2",{children:"Editor"}),ut("textarea",{id:"editor",value:e,onChange:t})]}),ji("div",{className:"col",children:[ut("h2",{children:"Previewer"}),ut("div",{id:"preview",children:ut(Td,{children:e})})]})]})}xo.createRoot(document.getElementById("root")).render(ut(pt.StrictMode,{children:ut(gv,{})}));
