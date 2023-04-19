@@ -34,7 +34,7 @@ textarea {
 #preview {
   padding: 0 30px;
   background-color: #2c2d2d;
-  overflow-x: scroll;
+  overflow-x: hidden;
   border: 1px solid white;
   border-radius: 2px;
   -webkit-border-radius: 2px;
